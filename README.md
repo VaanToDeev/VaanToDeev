@@ -1,5 +1,5 @@
-# Hi there 
-## i'm VaanToDeev 
-## :books: - i am a computer technician, student of systems analysis and neuroscience.
-## :wrench: - I work with computer maintenance and digital marketing.
+# Hi there!I'm Victor 
+##  but, you can call me VaanToDeev 
+## :books: - I am an information systems student and programmer.
+### program in Ruby and Python
 ## wellcome 👋
