@@ -4,8 +4,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -14,6 +12,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=36BCF7FF&color:FFF)](https://www.linkedin.com/in/devvictorreis/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=36BCF7FF%color:FFF)](https://www.instagram.com/_7victor.dll/)
 
+
+
+<br/>
+<br/>
+<br/>
 
 <h3 align="center">My Stack ~</h3>
 
