@@ -15,7 +15,7 @@
 <br/>
 
 
-<h3 align="center">My Stack ~</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&duration=2500&pause=600&color=18526C&center=true&vCenter=true&width=435&lines=My+stacks+~" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
