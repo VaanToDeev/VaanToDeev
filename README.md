@@ -1,7 +1,11 @@
-
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Victor%2C+welcome;Ol%C3%A1%2C+meu+nome+%C3%A9+Victor%2C+seja+bem+vindo" alt="Typing SVG" /></a>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
