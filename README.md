@@ -3,7 +3,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -14,7 +13,6 @@
 
 
 
-<br/>
 <br/>
 <br/>
 
